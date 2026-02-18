@@ -1,1 +1,2 @@
-hi
+Network Sensory Monitor — Advanced is a real-time network intelligence tool built with Python and Tkinter that visualizes network stability using live latency, jitter, packet loss, and real Ookla Speedtest integration.
+It simulates core computer networking concepts like routing algorithms, congestion control, packet scheduling, ARP monitoring, and QoS classification — all inside an interactive GUI dashboard. 
