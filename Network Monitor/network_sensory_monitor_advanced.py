@@ -5,7 +5,7 @@ Network Sensory Monitor — Advanced (Tkinter) — Speedtest-integrated
 - Runs speedtest in background thread to avoid UI blocking
 """
 
-import tkinter as tk
+import tkinter as t
 from tkinter import ttk, messagebox
 import threading
 import subprocess
